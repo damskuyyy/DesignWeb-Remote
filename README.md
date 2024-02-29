@@ -1,2 +1,2 @@
-# DesignWeb-Remote
-ini adalah repository remote dari project design web 
+# MSIB6-remote
+ini adalah repositori untuk project git remot
